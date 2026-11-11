@@ -1,0 +1,124 @@
+DE CAFE – ITEM IMAGE FILE NAMES
+Put each photo in:  public/images/items/
+Accepted formats: .jpg  .jpeg  .png  .webp   (use the exact name below, e.g. hot-beverages_espresso.jpg)
+Best size: 800x600 (4:3). Missing images show a placeholder automatically.
+
+== Hot Beverages ==
+hot-beverages_espresso.jpg   <-  Espresso
+hot-beverages_americano.jpg   <-  Americano
+hot-beverages_cortado.jpg   <-  Cortado
+hot-beverages_cafe-latte.jpg   <-  Café Latte
+hot-beverages_cappuccino.jpg   <-  Cappuccino
+
+== Hot Flavoured ==
+hot-flavoured_spanish.jpg   <-  Spanish
+hot-flavoured_vanilla.jpg   <-  Vanilla
+hot-flavoured_caramel.jpg   <-  Caramel
+hot-flavoured_roasted-hazelnut.jpg   <-  Roasted Hazelnut
+hot-flavoured_choco-mocha.jpg   <-  Choco Mocha
+hot-flavoured_pistachio.jpg   <-  Pistachio
+
+== Coffee Frappe ==
+coffee-frappe_vanilla.jpg   <-  Vanilla
+coffee-frappe_caramel.jpg   <-  Caramel
+coffee-frappe_moccacino.jpg   <-  Moccacino
+
+== Iced Latte ==
+iced-latte_iced-americano.jpg   <-  Iced Americano
+iced-latte_iced-latte.jpg   <-  Iced Latte
+iced-latte_iced-salted-spanish.jpg   <-  Iced Salted Spanish
+iced-latte_iced-french-vanilla.jpg   <-  Iced French Vanilla
+iced-latte_iced-caramel.jpg   <-  Iced Caramel
+iced-latte_iced-roasted-hazelnut.jpg   <-  Iced Roasted Hazelnut
+iced-latte_iced-choco-mocha.jpg   <-  Iced Choco Mocha
+iced-latte_iced-strawberry-mocha.jpg   <-  Iced Strawberry Mocha
+iced-latte_iced-pistachio.jpg   <-  Iced Pistachio
+
+== De Café Special ==
+de-cafe-special_cupa-crunch-latte.jpg   <-  Cupa Crunch Latte
+de-cafe-special_strawberry-peach.jpg   <-  Strawberry Peach
+de-cafe-special_mango-habanero.jpg   <-  Mango Habanero
+de-cafe-special_strawberry-matcha.jpg   <-  Strawberry Matcha
+de-cafe-special_pistachio-frappe.jpg   <-  Pistachio Frappe
+
+== Matcha ==
+matcha_classic.jpg   <-  Classic
+matcha_mango.jpg   <-  Mango
+matcha_coconut.jpg   <-  Coconut
+
+== Refreshers ==
+refreshers_mint-margarita.jpg   <-  Mint Margarita
+refreshers_mix-mojito.jpg   <-  Mix Mojito
+refreshers_paisson-puch.jpg   <-  Paisson Puch
+refreshers_berry-cola.jpg   <-  Berry Cola
+refreshers_guawa-mojito.jpg   <-  Guawa Mojito
+refreshers_water-melon.jpg   <-  Water Melon
+refreshers_blue-zest.jpg   <-  Blue Zest
+
+== Milk Shakes ==
+milk-shakes_banana.jpg   <-  Banana
+milk-shakes_bana-dates.jpg   <-  Bana Dates
+milk-shakes_oreo.jpg   <-  Oreo
+milk-shakes_dates-and-fig.jpg   <-  Dates & Fig
+milk-shakes_pistachio.jpg   <-  Pistachio
+
+== Iced & Hot Tea ==
+iced-and-hot-tea_iced-lemon.jpg   <-  Iced Lemon
+iced-and-hot-tea_iced-peach.jpg   <-  Iced Peach
+iced-and-hot-tea_iced-passion.jpg   <-  Iced Passion
+iced-and-hot-tea_milk-tea.jpg   <-  Milk Tea
+iced-and-hot-tea_green-tea.jpg   <-  Green Tea
+iced-and-hot-tea_black-tea.jpg   <-  Black Tea
+
+== Chicken Broast & Bites ==
+chicken-broast-and-bites_injected-broast.jpg   <-  Injected Broast
+chicken-broast-and-bites_chicken-strips-4pcs.jpg   <-  Chicken Strips (4pcs)
+chicken-broast-and-bites_hot-shots.jpg   <-  Hot Shots
+chicken-broast-and-bites_chicken-cheese-balls-5pcs.jpg   <-  Chicken Cheese Balls (5pcs)
+chicken-broast-and-bites_chicken-nuggets.jpg   <-  Chicken Nuggets
+
+== Wing Station ==
+wing-station_hot-wings.jpg   <-  Hot Wings
+wing-station_crispy-wings.jpg   <-  Crispy Wings
+
+== Potato Party ==
+potato-party_plain-fries.jpg   <-  Plain Fries
+potato-party_mayo-garlic-fries.jpg   <-  Mayo Garlic Fries
+potato-party_loaded-fries.jpg   <-  Loaded Fries
+potato-party_pizza-fries.jpg   <-  Pizza Fries
+
+== Burgers Bash ==
+burgers-bash_patty-burger.jpg   <-  Patty Burger
+burgers-bash_crunch-burger.jpg   <-  Crunch Burger
+burgers-bash_chicken-patty-cheese.jpg   <-  Chicken Patty Cheese
+burgers-bash_zinger-burger.jpg   <-  Zinger Burger
+burgers-bash_zinger-cheese-burger.jpg   <-  Zinger Cheese Burger
+burgers-bash_twin-tower-burger.jpg   <-  Twin Tower Burger
+
+== Twist Roll & Wrap ==
+twist-roll-and-wrap_chicken-chutney-roll.jpg   <-  Chicken Chutney Roll
+twist-roll-and-wrap_chicken-mayo-roll.jpg   <-  Chicken Mayo Roll
+twist-roll-and-wrap_crisp-chicken-roll.jpg   <-  Crisp Chicken Roll
+twist-roll-and-wrap_trotila-wrap.jpg   <-  Trotila Wrap
+twist-roll-and-wrap_trotila-platter.jpg   <-  Trotila Platter
+
+== Toasted Tales ==
+toasted-tales_club-sandwich.jpg   <-  Club Sandwich
+toasted-tales_grilled-sandwich.jpg   <-  Grilled Sandwich
+toasted-tales_veg-sandwich.jpg   <-  Veg Sandwich
+
+== Pasta Please ==
+pasta-please_alfredo-pasta.jpg   <-  Alfredo Pasta
+pasta-please_creamy-penne-pasta.jpg   <-  Creamy Penne Pasta
+
+== Bake & Cake ==
+bake-and-cake_fudge-brownie.jpg   <-  Fudge Brownie
+bake-and-cake_nutella-brownie.jpg   <-  Nutella Brownie
+bake-and-cake_toffee-brownie.jpg   <-  Toffee Brownie
+bake-and-cake_chocolate-chunk-cookie.jpg   <-  Chocolate Chunk Cookie
+bake-and-cake_fudge-cookie.jpg   <-  Fudge Cookie
+bake-and-cake_butter-croissant.jpg   <-  Butter Croissant
+bake-and-cake_chocolate-croissant.jpg   <-  Chocolate Croissant
+bake-and-cake_donuts.jpg   <-  Donuts
+
+Total: 84 images
